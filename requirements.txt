@@ -4,6 +4,7 @@ blinker
 cachetools
 certifi
 charset-normalizer
+xgboost
 click
 colorama
 gitdb
